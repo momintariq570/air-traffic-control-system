@@ -31,5 +31,5 @@ The application exposes 5 REST endpoints:
 5) '/queue': returns the aircraft queue
 
 The application can be started by executing the following command:
-mvn spring-boot:run
 
+mvn spring-boot:run
